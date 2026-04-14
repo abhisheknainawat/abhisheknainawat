@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">An enthusiastic frontend developer based in India.</h3>
+<h3 align="center">An enthusiastic frontend developer based in India</h3>
 
 - 🔭 I’m currently working on [liveblog](https://liveblock-abhi.vercel.app/)
 
