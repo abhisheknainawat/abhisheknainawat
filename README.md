@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br><br>- 🔭 I’m currently working on **Spring Boot + React Projects**<br>- 🤝 I’m looking to collaborate on **Frontend & Full Stack Projects**<br>- 🛠️ I’m looking for help with **System Design & Backend Scaling**<br>- 🌱 I’m currently learning **DSA, React, and Cloud (AWS)**<br>- 💬 Ask me about **HTML, CSS, JavaScript, React**<br>- ⚡ Fun fact: I love solving problems & watching cricket 🏏
+<br>- 🔭 I’m currently working on **Spring Boot + React Projects**<br>- 🤝 I’m looking to collaborate on **Frontend & Full Stack Projects**<br>- 🛠️ I’m looking for help with **System Design & Backend Scaling**<br>- 🌱 I’m currently learning **DSA, React, and Cloud (AWS)**<br>- 💬 Ask me about **HTML, CSS, JavaScript, React**<br>- ⚡ Fun fact: I love solving problems & watching cricket 🏏
 
 
 ## 🌐 Socials:
