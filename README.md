@@ -2,7 +2,7 @@
 <br>- 🔭 I'm currently working on **Spring Boot + React Projects**<br>- 🤝 I'm looking to collaborate on **Frontend & Full Stack Projects**<br>- 🛠️ I'm looking for help with **System Design & Backend Scaling**<br>- 🌱 I'm currently learning **DSA, React, and Cloud (AWS).**<br>- 💬 Ask me about **HTML, CSS, JavaScript, React**<br>- ⚡ Fun fact: I love solving problems & watching cricket🏏
 
 ## 🚀 Portfolio: 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://portfolio-abhishek-teal.vercel.app/](https://portfolio-abhishek-abhisheknainawats-projects.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://portfolio-abhishek-abhisheknainawats-projects.vercel.app/])
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhisheknainawat_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhisheknainawat7224) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhisheknainawat9@gmail.com) 
